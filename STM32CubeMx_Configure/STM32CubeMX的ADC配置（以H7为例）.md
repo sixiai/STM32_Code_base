@@ -6,13 +6,11 @@
 
 根据自己的IO口，到Analog中选择对应的ADCx和INx;
 
-------
 
 ## 2、ADC时钟配置
 
 首先到**Clock Configuration**里对ADC的时钟进行配置，通常来说为**20~40MHz**之间为好;
 
-------
 
 ## 3、ADC进行初始化配置
 
